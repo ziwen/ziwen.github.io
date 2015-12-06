@@ -1,0 +1,45 @@
+---
+layout:     post
+title:      "升级XCode7后插件不可用的解决办法"
+subtitle:   " \"修改 plug-ins的UUID配置信息\""
+date:       2015-12-05 12:00:00
+author:     "子文"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - STARTER
+---
+
+#升级XCode7后插件不可用的解决办法
+
+在xcode6上有很多很好用的插件。
+
+比如:VVDocumenter-XCode 这个快速添加标准注释，自动生成文档的插件，方便到只需要输入"///"就可以搞定。目前已经支持swift了。
+ColorSense-for-Xcode 
+KSImageNamed-Xcode等
+
+从xcode6升级到xcode7后，突然发现 这些快捷键都不能使用了。原因是苹果为了保证插件的稳定性，需要加入UUID证书，也就是在相应插件的Info.plist文件加入xcode的uuid。
+
+1.首先我们要查看XCode的UUID
+
+终端运行
+
+```
+	defaults read /Applications/Xcode.app/Contents/Info DVTPlugInCompatibilityUUID
+```
+字符串就被拷贝了。
+
+2.将XCode的UUID加入到插件的info.plist 文件中。
+
+进入插件所在目录:
+
+~/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/
+
+对插件----右键，“显示包内容”，打开info.plist
+找到DVTPlugInCompatibilityUUIDs 添加一项，value为之前拷贝的xcode的UUID，保存。
+
+3.重启xcode后会提示 “Load Bundle”，“Skip Bundle” 强调必须选择“Load Bundle”，否则插件无法使用。
+
+当然也存在一些，修改了之后也不能用的，比如 
+CodePilot 这个模糊搜索神器，快捷键为"cmd+shift+x" 为一大遗憾。看github说明支持Xcode5&6 就没有7。严重怀疑，xcode7苹果把他调用的方法给抛弃了。所以直接不支持了。
+
+期待更新。

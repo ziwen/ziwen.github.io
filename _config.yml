@@ -1,22 +1,22 @@
 # Site settings
 title: '子文'
-SEOTitle: '子文的博客'
-header-img: 'img/home-bg.jpg'
-email: 'zaijianbali@gmail.com'
-description: “iOS潜行者、黑客与画家 | 这里是 @子文 的个人博客，与你一起发现更大的世界。"
-keyword: “子文、ziwen、@ziwen、@ziwen、@子 文’
-url: "http://ziwen.co”              # your host, for absolute URL
+SEOTitle: 子文
+header-img: img/home-bg.jpg
+email: zaijianbalio@gmail.com
+description: "子文的博客"
+keyword: "IOS Geek"
+url: "http://ziwen.co"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     'ziwen'
-zhihu_username:     'ziwen'
-github_username:    'ziwen'
-#twitter_username:  'ziwen'
-facebook_username:  'ziwen'
+weibo_username:     ziwen
+zhihu_username:     ziwen
+github_username:    ziwen
+#twitter_username:  ziwen
+facebook_username:  ziwen
 
 
 
@@ -43,9 +43,9 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+#duoshuo_username: huxblog
 # Share component is depend on Comment so we can NOT use share only.
-#duoshuo_share: true                     # set to false if you want to use Comment without #Sharing
+#duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
@@ -61,8 +61,8 @@ duoshuo_username: huxblog
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，我想去看看。"
-sidebar-avatar: /img/avatar.ziwen.jpg      # use absolute URL, seeing it's used in both `/` #and `/about/`
+sidebar-about-description: "IOS Geek"
+sidebar-avatar: /img/avatar.ziwen.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -73,7 +73,9 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # Friends
-friends: [{
+friends: [
+    {
         title: "DHong Say",
         href: "http://dhong.co"
-    }]
+    }
+]

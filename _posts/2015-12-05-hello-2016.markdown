@@ -1,0 +1,22 @@
+---
+layout:     post
+title:      "Hello 2015"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2015-12-05 12:00:00
+author:     "子文"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - STARTER
+---
+
+
+
+>  STAY FOOLISH, STAY HUNGARY !
+
+
+>  LIFE IS A STRUGGLE !
+
+
+
+
+

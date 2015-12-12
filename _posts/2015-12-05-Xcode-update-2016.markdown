@@ -2,7 +2,7 @@
 layout:     post
 title:      "升级XCode7后插件不可用的解决办法"
 subtitle:   " \"修改 plug-ins的UUID配置信息\""
-date:       2015-12-05 12:00:00
+date:       2015-12-05 13:00:00
 author:     "子文"
 header-img: "img/home-bg.jpg"
 tags:

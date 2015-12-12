@@ -2,7 +2,7 @@
 layout:     post
 title:      "Hello 2015"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-12-05 12:00:00
+date:       2015-12-05 08:00:00
 author:     "子文"
 header-img: "img/home-bg.jpg"
 tags:

@@ -4,7 +4,7 @@ title:      "走过2015，展望2016"
 subtitle:   "1516说点啥"
 date:       2016-01-01 11:51:00
 author:     "子文"
-header-img: "img/2015-12-12/2016-01-01/20150612-hutiaoxia.jpeg"
+header-img: "img/2016-01-01/20150612-hutiaoxia.jpeg"
 tags:
     - STARTER
 ---

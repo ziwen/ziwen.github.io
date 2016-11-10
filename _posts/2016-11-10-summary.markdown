@@ -4,7 +4,7 @@ title:      "男神讲乐理"
 subtitle:   "董老师乐理干货一"
 date:       2016-11-10 01:31:00
 author:     "子文"
-header-img: "img/2016-11-09/xuwei-son-lanlianhua.jpg"
+header-img: "img/2016-11-09/lanlianhuageci.jpeg"
 tags:
     - STARTER
 ---

@@ -4,7 +4,7 @@ title:      "男神讲乐理"
 subtitle:   "董老师乐理干货二"
 date:       2016-11-17 24:00:00
 author:     "子文"
-header-img: "img/2016-11-11/lanlianhuageci.jpeg"
+header-img: "img/404-bg.jpg"
 tags:
     - STARTER
 ---
@@ -63,6 +63,8 @@ tip：blus1/4特殊
 3. 236加m
 4. b、#调节
 ```
+![十二平均律](/img/2016-11-17/highlow.jpeg)
+
 注意规律
 1=C,G没有变化
 1=D时，Fm升高8度
@@ -71,6 +73,26 @@ tip：blus1/4特殊
 1=bA时,要降都降
 
 图片
+
+
+
+## 已经学过的歌曲
+两个和弦就能飞起来的Em、Am
+《小草》
+《青春舞曲》
+《兰花草》
+
+三个和弦的ADE
+《那天晚上》
+6个和弦的
+《月亮代表我的心》
+
+还学过
+《大约在冬季》
+
+英文歌
+《My heart will go on》
+
 
 
 ***

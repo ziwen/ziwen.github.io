@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "男神讲乐理"
+title:      "男神讲乐理三"
 subtitle:   "吉他识谱"
 date:       2016-11-24 23:59:00
 author:     "子文"

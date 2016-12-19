@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "男神讲乐理"
+title:      "男神讲乐理六"
 subtitle:   "基础和声学"
 date:       2016-12-17 02:59:00
 author:     "子文"

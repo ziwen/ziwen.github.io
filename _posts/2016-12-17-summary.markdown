@@ -2,7 +2,7 @@
 layout:     post
 title:      "男神讲乐理"
 subtitle:   "基础和声学"
-date:       2016-12-09 01:59:00
+date:       2016-12-17 02:59:00
 author:     "子文"
 header-img: "img/404-bg.jpg"
 tags:
@@ -82,7 +82,7 @@ tags:
 
 x表示横按的品
 
-![基础和弦学](/img/2016-12-17/IMG_2275.JPG)
+![基础和弦学](/img/2016-12-17/IMG_2278.JPG)
 
 
 # Reggae

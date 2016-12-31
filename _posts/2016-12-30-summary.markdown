@@ -4,7 +4,7 @@ title:      "不畏将来，不念过往。如此，安好"
 subtitle:   "2016总结"
 date:       2016-12-29 02:59:00
 author:     "子文"
-header-img: "img/404-bg.jpg"
+header-img: "img/2016-12-30/IMG_2300.JPG.jpg"
 tags:
     - STARTER
 ---
@@ -88,6 +88,7 @@ tags:
 ```
 不畏将来，不念过去。如此，安好。
 ```
+
 ## 2016马上就过去，那么剩下的留给2017	去书写吧。
 
 

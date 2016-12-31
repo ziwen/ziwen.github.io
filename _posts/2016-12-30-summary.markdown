@@ -2,9 +2,9 @@
 layout:     post
 title:      "不畏将来，不念过往。如此，安好"
 subtitle:   "2016总结"
-date:       2016-12-29 02:59:00
+date:       2016-12-31 23:59:00
 author:     "子文"
-header-img: "img/2016-12-30/IMG_2300.JPG"
+header-img: "img/2016-12-31/IMG_2300.JPG"
 tags:
     - STARTER
 ---
